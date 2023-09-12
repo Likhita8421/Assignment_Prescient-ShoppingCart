@@ -1,0 +1,28 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "Name": "Shirts",
+      "quantity": 10,
+      "Price": 800
+    },
+    {
+      "id": 3,
+      "Name": "T-Shirt",
+      "quantity": 6,
+      "Price": 100
+    },
+    {
+      "id": 6,
+      "Name": "fruits",
+      "quantity": 10,
+      "Price": 800
+    },
+    {
+      "id": 7,
+      "Name": "flowers",
+      "quantity": 9,
+      "Price": 900
+    }
+  ]
+}
